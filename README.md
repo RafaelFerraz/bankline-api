@@ -7,3 +7,5 @@ For further reference, please consider the following sections:
 * [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.6.7/maven-plugin/reference/html/)
 * [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.6.7/maven-plugin/reference/html/#build-image)
 
+## Para executar a API online
+Acesse: https://rafaelferraz-dio-bankline-api.herokuapp.com/swagger-ui/index.html
