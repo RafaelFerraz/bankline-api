@@ -9,3 +9,6 @@ For further reference, please consider the following sections:
 
 ## Para executar a API online
 Acesse: https://rafaelferraz-dio-bankline-api.herokuapp.com/swagger-ui/index.html
+
+### Tipos de transações esperadas
+RECEITA ou DESPESA
